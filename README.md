@@ -1,4 +1,4 @@
-## Exercício Maior Idade
+## Exercício Controle de animais
 Crie um algoritmo/programa no qual o usuário deverá informar o nome e o tipo de cinco animais de estimação. O programa deverá exibir na tela para o usuário quantos Cachorros, Gatos e peixes foram informados.  
 
 Regras que deverão ser seguidas para a implementação do algoritmo:  
